@@ -1,5 +1,5 @@
-# NSF RESET Workshop: Introduction to Public Health Data Science using the R Programming Language
-## March 06, 2021
+# RESORC Workshop: Introduction to Public Health Data Science using the R Programming Language
+## May 01, 2021
 
 This workshop will employ computational data science techniques covering the first 4 main steps of a typical data science pipeline: 
 1. Acquisition 
@@ -18,8 +18,7 @@ What you will need:
     * It would be ideal to follow along locally, on your own machine
     * Here is a [TUTORIAL FOR WINDOWS](https://derailment.netlify.app/2019-12-10-installing-r-rstudio-on-windows/) & [TUTORIAL FOR MAC](https://derailment.netlify.app/2019-11-16-installing-r-rstudio-on-a-mac/) that can help you get up and running :)
   * If you do not have R & RStudio set up on your machine by the time the workshop rolls around, no fear - cloud is here! 🦸‍♀
-    * Cohort #1 - [INSERT RSTUDIO CLOUD LINK HERE]
-    * Cohort #2 - [INSERT RSTUDIO CLOUD LINK HERE]
+    * [INSERT RSTUDIO CLOUD LINK HERE]
   
 ### About your speaker:
 
