@@ -11,7 +11,7 @@ Attendees will be presented with healthcare data apply the taught methodologies 
 
 What you will need:  
 
-* Presentation: `slides.pdf`
+* Presentation: labouz.github.io/resorc/ or `slides.pdf`
 * Code: `import_tidy_transform_viz.Rmd`
 * R & RStudio 
   * PLEASE MAKE SURE YOU HAVE THIS SETUP
