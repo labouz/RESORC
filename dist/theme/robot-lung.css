@@ -48,7 +48,7 @@ section.has-light-background h6 {
 .line {
     content: '';
     position: fixed;
-    background: #424179;
+    background: linear-gradient(to bottom right, #F3315E, #FE6319);
     z-index: 105;
 }
 
@@ -359,7 +359,7 @@ body {
  *********************************************/
 
 .reveal a {
-    color: #8F92DD;
+    color: #F23568;
     text-decoration: none;
     -webkit-transition: color .15s ease;
     -moz-transition: color .15s ease;
@@ -374,7 +374,7 @@ body {
 
 .reveal .roll span:after {
     color: #fff;
-    background: #8F92DD;
+    background: #F23568;
 }
 
 
@@ -412,7 +412,7 @@ body {
  *********************************************/
 
 .reveal .controls {
-    color: #73F1F9;
+    color: #FE6319;
 }
 
 
